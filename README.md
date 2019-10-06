@@ -23,6 +23,6 @@ Se realizan los mismo procedimientos para ambos archivos (cliente.c y servidor.c
 
 El procedimiento es el siguiente:
 
-*Ejecutar el sevidor (este quedará en modo espera)
-*Ejecutar el cliente con los siguientes argumentos 
-   *./cliente localhost [archivo] > [cualquiernombre] 
+* Ejecutar el sevidor (este quedará en modo espera)
+* Ejecutar el cliente con los siguientes argumentos 
+* ./cliente localhost [archivo] > [cualquiernombre] 
