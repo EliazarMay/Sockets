@@ -5,7 +5,7 @@ Los siguientes códigos funcionan unicamente para Linux/Unix
 
 Para compilar primero debes instalar gcc y g++
 
-Comando para compilar: gcc -o [nombredelejecutable] cliente.c
+Comando para compilar: gcc -o [nombredelejecutable] [archivoacompilar]
 
   #*Ejemplo: gcc -o cliente cliente.c
 El comando anterior generará un archivo ejecutable
